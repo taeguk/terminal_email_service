@@ -3,4 +3,4 @@ Language : Python
 
 SendEmail.py :
 
-  send e-mail using naver.com
+      send e-mail using naver.com
